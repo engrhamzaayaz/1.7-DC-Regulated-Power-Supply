@@ -1,6 +1,5 @@
 # 1.7V DC Regulated Power Supply using Zener Diode
 
-![Power Supply](Images/final_circuit.jpg)
 
 ## Overview
 This project presents the design and implementation of a **1.7V DC Regulated Power Supply** using a **Zener diode** as the core voltage regulation component. The goal was to convert an unregulated DC input into a stable, regulated 1.7V DC output — regardless of input voltage fluctuations or load variations.
@@ -71,41 +70,6 @@ Where:
 
 ---
 
-## 🔌 Schematic
-
-> Add your LTSpice schematic screenshot here
-
-![Schematic](Schematics/schematic_image.png)
-
----
-
-## 📈 Simulation Results
-
-> Add your LTSpice simulation waveform/output screenshot here
-
-![Simulation](Simulation/simulation_results.png)
-
----
-
-## 📁 Repository Structure
-1.7-DC-Regulated-Power-Supply/
-│
-├── README.md
-├── Schematics/
-│   ├── zener_circuit.asc        ← LTSpice schematic file
-│   └── schematic_image.png      ← Schematic screenshot
-│
-├── Simulation/
-│   └── simulation_results.png   ← LTSpice output waveform
-│
-├── Images/
-│   ├── breadboard.jpg
-│   └── final_circuit.jpg
-│
-└── Report/
-└── project_report.pdf
-
----
 
 ## 📚 What We Learned
 - Practical application of Zener diode voltage regulation
