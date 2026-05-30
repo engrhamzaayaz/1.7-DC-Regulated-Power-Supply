@@ -82,3 +82,14 @@ Where:
 
 ## 📄 License
 This project is for academic purposes.
+
+## 📷 Project Photos
+
+![1](Schematics/Schematics/1.7.png)
+![3](Schematics/Schematics/IMG-20260408-WA0045.jpg)
+![4](Schematics/Schematics/IMG-20260408-WA0053.jpg)
+![6](Schematics/Schematics/WhatsApp%20Image%202026-05-31%20at%2012.08.13%20AM%20(2).jpeg)
+![7](Schematics/Schematics/WhatsApp%20Image%202026-05-31%20at%2012.08.14%20AM.jpeg)
+
+
+
